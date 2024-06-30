@@ -26,8 +26,10 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.Hero-Image{
+  margin-top: '0px'; 
+  display: 'flex'; 
+  flex-direction: column;
+  align-items: 'center';
+  background-color: 'CCCCC';
 }

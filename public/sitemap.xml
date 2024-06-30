@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://jp-gardening.com/</loc>
+    <lastmod>2024-02-26T00:13:52.233Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://jp-gardening.com/services</loc>
+    <lastmod>2024-02-26T00:13:52.233Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://jp-gardening.com/about</loc>
+    <lastmod>2024-02-26T00:13:52.233Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://jp-gardening.com/contact</loc>
+    <lastmod>2024-02-26T00:13:52.233Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

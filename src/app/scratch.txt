@@ -1,0 +1,54 @@
+
+  <style id="tb_inline_styles" data-no-optimize="1">.tb_animation_on{overflow-x:hidden}.themify_builder .wow{visibility:hidden;animation-fill-mode:both}[data-tf-animation]{will-change:transform,opacity,visibility}.themify_builder .tf_lax_done{transition-duration:.8s;transition-timing-function:cubic-bezier(.165,.84,.44,1)}[data-sticky-active].tb_sticky_scroll_active{z-index:1}[data-sticky-active].tb_sticky_scroll_active .hide-on-stick{display:none}@media(min-width:1025px){.hide-desktop{width:0!important;height:0!important;padding:0!important;visibility:hidden!important;margin:0!important;display:table-column!important;background:0!important}}@media(min-width:769px) and (max-width:1024px){.hide-tablet_landscape{width:0!important;height:0!important;padding:0!important;visibility:hidden!important;margin:0!important;display:table-column!important;background:0!important}}@media(min-width:681px) and (max-width:768px){.hide-tablet{width:0!important;height:0!important;padding:0!important;visibility:hidden!important;margin:0!important;display:table-column!important;background:0!important}}@media(max-width:680px){.hide-mobile{width:0!important;height:0!important;padding:0!important;visibility:hidden!important;margin:0!important;display:table-column!important;background:0!important}}@media(max-width:680px){
+    .themify_map.tf_map_loaded{width:100%!important}
+    .ui.builder_button,.ui.nav li a{padding:.525em 1.15em}
+    .fullheight>.row_inner:not(.tb_col_count_1){min-height:0}
+  }</style><noscript><style>.themify_builder .wow,.wow .tf_lazy{visibility:visible!important}</style></noscript>        <style id="tf_lazy_common" data-no-optimize="1">
+                    img{
+            max-width:100%;
+            height:auto
+        }
+                                .tf_fa,em tf-lottie,i tf-lottie{display:inline-block;vertical-align:middle}em tf-lottie,i tf-lottie{width:1.4em;height:1.4em}.tf_fa{width:1em;height:1em;stroke-width:0;stroke:currentColor;overflow:visible;fill:currentColor;pointer-events:none;text-rendering:optimizeSpeed;buffered-rendering:static}#tf_svg symbol{overflow:visible}.tf_lazy{position:relative;visibility:visible;display:block;opacity:.3}.wow .tf_lazy{visibility:hidden;opacity:1;position:static;display:inline}div.tf_audio_lazy audio{visibility:hidden;height:0;display:inline}.mejs-container{visibility:visible}.tf_iframe_lazy{transition:opacity .3s ease-in-out;min-height:10px}.tf_carousel .tf_swiper-wrapper{display:flex}.tf_carousel .tf_swiper-slide{flex-shrink:0;opacity:0;width:100%;height:100%}.tf_carousel .tf_lazy{contain:none}.tf_swiper-wrapper>br,.tf_lazy.tf_swiper-wrapper .tf_lazy:after,.tf_lazy.tf_swiper-wrapper .tf_lazy:before{display:none}.tf_lazy:after,.tf_lazy:before{content:'';display:inline-block;position:absolute;width:10px!important;height:10px!important;margin:0 3px;top:50%!important;right:50%!important;left:auto!important;border-radius:100%;background-color:currentColor;visibility:visible;animation:tf-hrz-loader infinite .75s cubic-bezier(.2,.68,.18,1.08)}.tf_lazy:after{width:6px!important;height:6px!important;right:auto!important;left:50%!important;margin-top:3px;animation-delay:-.4s}@keyframes tf-hrz-loader{0%{transform:scale(1);opacity:1}50%{transform:scale(.1);opacity:.6}100%{transform:scale(1);opacity:1}}.tf_lazy_lightbox{position:fixed;background:rgba(11,11,11,.8);color:#ccc;top:0;left:0;display:flex;align-items:center;justify-content:center;z-index:999}.tf_lazy_lightbox .tf_lazy:after,.tf_lazy_lightbox .tf_lazy:before{background:#fff}.tf_vd_lazy,tf-lottie{display:flex;flex-wrap:wrap}tf-lottie{aspect-ratio:1.777}.tf_w.tf_vd_lazy video{width:100%;height:auto;position:static;object-fit:cover}
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <title></title>
+
+
+    <style>
+        body {
+          margin: 0;
+          padding: 0;
+          background: #f0f0f0; /* Set a background color for the body */
+        }
+    
+        header {
+          background-image: url('JPGARDENING.bmp '); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+          background-size: cover;
+          background-position: center;
+          color: white; /* Set the text color */
+          text-align: center;
+          padding: 300px 0; /* Adjust the top and bottom padding as needed */
+        }
+
+        h1{
+            color: black;
+
+        }
+
+        .one{
+            text-align: center;
+        }
+        .margin-left{
+          margin-left:300px;
+        }
+      </style>
+
+</head>
+<body>
+    
+
+    <header>
+        <h1></h1>
+      </header>
