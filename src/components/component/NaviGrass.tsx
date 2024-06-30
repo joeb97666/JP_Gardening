@@ -6,7 +6,9 @@
 import { Button } from "@/components/ui/button"
 import { SheetTrigger, SheetContent, Sheet } from "@/components/ui/sheet"
 import Link from 'next/link'
-import { CollapsibleTrigger, CollapsibleContent, Collapsible } from "@/components/ui/collapsible"
+/**
+    import { CollapsibleTrigger, CollapsibleContent, Collapsible } from "@/components/ui/collapsible"
+**/
 import { NavigationMenuLink, NavigationMenuTrigger, NavigationMenuContent, NavigationMenuItem, NavigationMenuList, NavigationMenu } from "@/components/ui/navigation-menu"
 import { useTheme } from 'next-themes';
 
