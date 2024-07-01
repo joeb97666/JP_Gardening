@@ -38,7 +38,7 @@ export function AboutUs() {
 
           <div className="fixed right-4 bottom-4 md:right-8 md:bottom-8">
           <Link
-            href="/Contact"
+            href="/contact"
             className="inline-block py-3 px-6 text-black bg-orange-400 rounded-md shadow-lg hover:bg-gray-700 focus-visible:ring-2 focus-visible:ring-gray-600 focus-visible:ring-opacity-50"
           
             style={{ backgroundColor: "#ff9900", 
