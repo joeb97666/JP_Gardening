@@ -16,7 +16,7 @@ export function AboutUs() {
               <ServiceCard
                 title="Our Company"
                 description="Welcome to your destination for professional lawn care and landscape design services. We serve the Long Beach, Lakewood and Lakewood Village area. As a newly established business, we are dedicated to providing top-quality solutions to meet our clients' outdoor maintenance and design needs."
-                titleClassName="text-2xl font-semibold text-green-600" // Add this
+                titleClassName="pt-300 mt-300 text-2xl font-semibold text-green-600" // Add this
               />
               <h2 className="text-gray-400 justify-text-left md:text-base dark:text-orange-400">
                 
