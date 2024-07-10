@@ -1,7 +1,7 @@
 
-import { NaviGrass } from '@/components/component/NaviGrass';
 import { Metadata } from 'next';
-import {ServicesPage} from '@/components/services-page';
+import {ServicesPage} from '@/app/components/services-page';
+import { NavMenu } from '@/app/components/Navigation';
 
 export const metadata: Metadata = {
       title: "JP Gardening - Services"
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   <>
   
        <header>
-             <NaviGrass />
+             <NavMenu />
       </header>
       <div className='bg-green-900'>
       

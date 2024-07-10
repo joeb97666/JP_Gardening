@@ -1,6 +1,6 @@
 
-import { NaviGrass } from '@/components/component/NaviGrass';
-import { ContactPage } from '@/components/ContactPage';
+import { ContactPage } from '@/app/components/ContactPage';
+import { NavMenu } from '@/app/components/Navigation';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   <>
   
        <header>
-             <NaviGrass />
+             <NavMenu />
       </header>
       <div className='bg-green-900'>
       <meta property="og:image" content="/istock/opengraph-image.png" />
