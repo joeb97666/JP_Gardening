@@ -5,19 +5,11 @@ import { TractorIcon } from "lucide-react";
 import { FlowerIcon } from "lucide-react";
 import { CropIcon } from "lucide-react";
 
-
-
-
-
   
 export function ServicesPage() {
 
- 
-
-  return (
-    
-   
-
+   return (
+      
     <div className="">
       <Head>
         <title>Services - JP Gardening</title>
