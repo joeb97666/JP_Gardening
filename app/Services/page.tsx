@@ -7,7 +7,7 @@ export const metadata: Metadata = {
       title: "JP Gardening - Services"
 }
 
- function services() {
+ function service() {
  
  
   return (
@@ -24,5 +24,5 @@ export const metadata: Metadata = {
         )
       }
 
-export default services
+export default service
 
