@@ -22,11 +22,11 @@ export function ServicesPage() {
         <section className="mb-12">
           <ServiceCard
            icon={<TractorIcon className="w-12 h-12 " />}
-            title="Our Company"
+            title="JP Gardening"
             description={
               <>
                 <p className="mb-4">
-                  <b>Welcome to your destination for professional lawn care and landscape design services. As a newly established business, we are dedicated to providing top-quality solutions to meet our clients outdoor maintenance and design needs.
+                  <b>Welcome to JP Gardening. Specializing in top-quality outdoor maintenance, lawn care and landscape design services. 
                   </b>
                 </p>
                 <p className="mb-4">
