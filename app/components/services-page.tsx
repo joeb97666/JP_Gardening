@@ -5,6 +5,17 @@ import { TractorIcon } from "lucide-react";
 import { FlowerIcon } from "lucide-react";
 import { CropIcon } from "lucide-react";
 
+function ServiceCard({ icon, title, description }: ServiceCardProps) {
+  return (
+    <div className="bg-gray-900 rounded-lg shadow-lg p-6">
+      <div className="flex items-center mb-4">
+        {icon}
+        <h3 className="text-xl font-bold ml-4">{title}</h3>
+      </div>
+      <div className="text-gray dark:text-gray-400">{description}</div>
+    </div>
+  );
+}
   
 export function ServicesPage() {
 
@@ -54,6 +65,9 @@ export function ServicesPage() {
             }
           />
         </section>
+
+
+        
         <section className="mb-12">
           <ServiceCard
             icon={<FlowerIcon className="w-12 h-12"  />}
@@ -110,12 +124,3 @@ interface ServiceCardProps {
   description: JSX.Element;
 }
 
-function ServiceCard({ icon, title, description }: ServiceCardProps) {
-  return (
-    <div className="bg-gray-900 rounded-lg shadow-lg p-6">
-      <div className="flex items-center mb-4">{icon}</div>
-      <h3 className="text-xl font-bold mb-4">{title}</h3>
-      <div className="text-gray dark:text-gray-400">{description}</div>
-    </div>
-  );
-}
